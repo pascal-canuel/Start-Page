@@ -18,7 +18,12 @@
 html, body{
 	margin: 0;
 	padding: 0;
+	background: url(bg.jpg) no-repeat center center fixed; 
 	background-color: #141516;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
 	color: #FFFFFF;
 	font-size: 14px;
 }
