@@ -9,7 +9,8 @@
 OR
 1. Use mine https://neirdynasty.xyz 
 # Updating the starting page
-It'll be easier to update your starting page if you create a symbolic link to it\
+It'll be easier to update your starting page if you create a symbolic link to it or even to the whole repo\
 `ln -s /usr/share/nginx/html/Start-Page/index.html index.html`
- 
+# Todo
+- [ ] optimize for mobile
 
