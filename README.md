@@ -10,11 +10,12 @@
 <h1 align="center">Firefox Homepage</h1>
 
 
-1. Use mine https://neirdynasty.xyz 
+1. Use mine https://neirdynasty.xyz
 OR
 1. [Install and run](https://wiki.archlinux.org/index.php/Nginx#Running) nginx on startup
 2. Replace the default page with your starting page
 3. In your web browser, add a custom url as the homepage `http://localhost/`
+
 
 <h1 align="center">Todo</h1>
 
